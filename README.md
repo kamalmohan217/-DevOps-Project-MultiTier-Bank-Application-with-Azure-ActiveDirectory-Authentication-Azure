@@ -42,7 +42,6 @@ Provided Administrative privilege as shown in the screenshot attached below.
 
 ![image](https://github.com/user-attachments/assets/60371973-2e1d-43f9-abb9-e3ad6fb12b7f)
 ![image](https://github.com/user-attachments/assets/082d51f5-6b95-4afb-ba5c-e1fd5c349035)
-![image](https://github.com/user-attachments/assets/29bf2529-93f0-41a6-85e2-bd72eed549db)
 
 Integrate Azure Artifact Feed with Azure Entra ID as shown in the screenshot attached below.
 
