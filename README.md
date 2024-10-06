@@ -1,4 +1,4 @@
-# -DevOps-Project-MultiTier-Bank-Application-with-Azure-ActiveDirectory-Authentication-Azure
+# DevOps-Project-MultiTier-Bank-Application-with-Azure-ActiveDirectory-Authentication-Azure
 
 Architecture diagram for the project is as shown in the screenshot attached below.
 
