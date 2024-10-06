@@ -43,11 +43,35 @@ Provided Administrative privilege as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/60371973-2e1d-43f9-abb9-e3ad6fb12b7f)
 ![image](https://github.com/user-attachments/assets/082d51f5-6b95-4afb-ba5c-e1fd5c349035)
 
-Integrate Azure Artifact Feed with Azure Entra ID as shown in the screenshot attached below.
+Integrate Azure Artifact Feed with Azure Entra ID as shown in the screenshot attached below. Provided contributor permission to user for Azure Artifact Feed. 
 
 ![image](https://github.com/user-attachments/assets/a7ce6cd0-9737-4e85-a081-f2eb293868c6)
 
+The Source Code was present in the Azure Repos as shown in the screenshot attached below.
 
+![image](https://github.com/user-attachments/assets/a4d2c7ef-6f0f-4d91-807b-6793bcb1a810)
+
+Service Connections has been created as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/005a200c-e3d9-4074-bf3e-3f691a3b7adb)
+
+Azure DevOps Pipeline had been created as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/17567a98-5625-4ebd-b1cc-c64dca0f116b)
+
+After running the Azure DevOps Pipeline the screenshot for SonarQube and Azure Artifacts Feed is as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/220c7fe8-9171-417a-b507-303ae8ce7cbd)
+![image](https://github.com/user-attachments/assets/840a288a-5fe1-4500-82f1-5ec5dc35cb05)
+
+Ingress Rule had been created as shown in the screenshot attached below and do the entry in Azure DNS Zone to create the Recordset.
+
+![image](https://github.com/user-attachments/assets/57be258f-3a86-4762-9886-d4a6203392ac)
+
+Finally Access the Application as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/6ca10c42-2b98-4c76-b72f-19f1133efab8)
+![image](https://github.com/user-attachments/assets/1d2f3cb2-bc73-4ea3-9ca1-360046e16a79)
 
 ```
 The bankapp-auth secrets for kubernetes can be created using the command below
