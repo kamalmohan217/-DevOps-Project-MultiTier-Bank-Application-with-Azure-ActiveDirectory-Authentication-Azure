@@ -25,7 +25,7 @@ OpenJDK Docker Image is depricated so in this project eclipse-temurin docker ima
 <br><br/>
 <br><br/>
 ```
-Source Code:-  https://github.com/singhritesh85/Bank-App.git
+Source Code:-  https://github.com/kamalmohan217/Bank-App.git
 ```
 <br><br/>
 <br><br/>
